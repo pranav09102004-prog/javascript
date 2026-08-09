@@ -1,4 +1,4 @@
-// while loop
+// while loop - When the block of code is true then its work.
 
 let index = 0
 while (index <= 10) {
@@ -19,6 +19,8 @@ while (arr < myArray.length) {
 
 let score = 1
 
+
+// Do-while - Atleast Once the code is executed.
 do {
     console.log(`Score is ${score}`);
     score++

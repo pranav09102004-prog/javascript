@@ -1,3 +1,6 @@
+// Getter -  read a property’s value in a controlled way.
+// Setter - change a property’s value in a controlled way.
+
 class User {
     constructor(email, password){
         this.email = email;

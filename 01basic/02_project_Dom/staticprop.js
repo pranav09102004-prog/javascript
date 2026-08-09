@@ -1,3 +1,4 @@
+// Static Prop - One parent class and diffrent child classes thaat is called static properties
 class User {
     constructor(username) {
         this.username = username

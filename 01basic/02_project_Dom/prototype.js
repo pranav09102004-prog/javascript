@@ -1,3 +1,5 @@
+// Prototype - in java script every object has hidden property that is called prototype.
+
 // let myname = "Pranav"
 // let mychannel = "Maskcode"
 

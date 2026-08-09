@@ -1,4 +1,4 @@
-// for loop
+// for loop - Used then when you know how many repeat the block
 for (let i = 0; i <= 10; i++) {
     const element = i;
     if(element ==5){

@@ -1,3 +1,5 @@
+// typeof - typeof is used to show datatype
+
 if (typeof document === 'undefined') {
     console.log('This script needs a browser environment. Open one.html in a browser to use the DOM features.');
 } else {

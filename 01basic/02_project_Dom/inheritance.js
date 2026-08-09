@@ -1,3 +1,5 @@
+// Inheritance - Inheritance means one object or class can use properties and methods of another.
+
 class User{
     constructor(username){
         this.username = username

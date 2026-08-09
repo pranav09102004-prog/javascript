@@ -1,3 +1,5 @@
+// Object - Object is a collection of key-value pairs
+
 const myObject = {
     js: 'JavaScript',
     CPP:'C++',
